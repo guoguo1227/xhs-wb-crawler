@@ -1,0 +1,13 @@
+{
+  "xsecappid": "",
+  "acw_tc": "",
+  "websectiga": "",
+  "webBuild": "",
+  "sec_poison_id": "",
+  "web_session": "",
+  "gid": "",
+  "a1": "",
+  "abRequestId": "",
+  "unread": "",
+  "webId": ""
+}
