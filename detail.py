@@ -73,3 +73,4 @@ if __name__ == '__main__':
         'https://www.xiaohongshu.com/explore/674f023a00000000080054a0?xsec_token=ABmiLX0Cc6t9VVKo-_wu1juy8O-Hu2f-NVB4_GPtFkb2o=&xsec_source=pc_search&source=web_search_result_notes'
     ]
     home.main(url_list)
+
