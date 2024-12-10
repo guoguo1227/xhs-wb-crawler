@@ -71,8 +71,13 @@ def get_search_params():
     }
 
 
-def get_detail_params(note_id):
-    return {"source_note_id": note_id, "image_scenes": ["CRD_PRV_WEBP", "CRD_WM_WEBP"]}
+def get_detail_params(note_id, xsec_token):
+    return {
+        "source_note_id": note_id,
+        "image_scenes": ["CRD_PRV_WEBP", "CRD_WM_WEBP"],
+        "xsec_source": "pc_search",
+        "xsec_token": xsec_token
+        }
 
 
 def get_params():
